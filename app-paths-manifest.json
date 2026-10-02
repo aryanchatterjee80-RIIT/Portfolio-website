@@ -1,0 +1,18 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/api/auth/login/route": "app/api/auth/login/route.js",
+  "/api/contact/route": "app/api/contact/route.js",
+  "/api/auth/me/route": "app/api/auth/me/route.js",
+  "/api/contact/[id]/route": "app/api/contact/[id]/route.js",
+  "/api/education/route": "app/api/education/route.js",
+  "/api/projects/[slug]/route": "app/api/projects/[slug]/route.js",
+  "/api/skills/route": "app/api/skills/route.js",
+  "/sitemap.xml/route": "app/sitemap.xml/route.js",
+  "/robots.txt/route": "app/robots.txt/route.js",
+  "/api/projects/route": "app/api/projects/route.js",
+  "/admin/page": "app/admin/page.js",
+  "/admin/login/page": "app/admin/login/page.js",
+  "/page": "app/page.js",
+  "/angular-module/page": "app/angular-module/page.js",
+  "/projects/[slug]/page": "app/projects/[slug]/page.js"
+}

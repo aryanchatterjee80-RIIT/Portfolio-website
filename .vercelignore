@@ -1,0 +1,7 @@
+.git
+.next
+node_modules
+*.bat
+.env*.local
+Resume.docx
+*.log

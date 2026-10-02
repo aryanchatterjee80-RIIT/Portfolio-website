@@ -1,0 +1,18 @@
+{
+  "/_not-found/page": "/_not-found",
+  "/api/auth/login/route": "/api/auth/login",
+  "/api/contact/route": "/api/contact",
+  "/api/auth/me/route": "/api/auth/me",
+  "/api/contact/[id]/route": "/api/contact/[id]",
+  "/api/education/route": "/api/education",
+  "/api/projects/[slug]/route": "/api/projects/[slug]",
+  "/api/skills/route": "/api/skills",
+  "/sitemap.xml/route": "/sitemap.xml",
+  "/robots.txt/route": "/robots.txt",
+  "/api/projects/route": "/api/projects",
+  "/admin/page": "/admin",
+  "/admin/login/page": "/admin/login",
+  "/page": "/",
+  "/angular-module/page": "/angular-module",
+  "/projects/[slug]/page": "/projects/[slug]"
+}
